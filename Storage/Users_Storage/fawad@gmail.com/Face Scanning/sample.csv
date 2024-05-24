@@ -1,0 +1,12 @@
+Date,On_peak,Off_peak,Usage_charge,Billed_amount,Billing_days,Product,Quantity,Sales,Gender
+1/1/2016,365,1423.5,219,247.73,31,Health and beauty,7,81,Female
+3/1/2016,130,507,78,11,29,Electronic accessories,5,66,Male
+3/1/2016,130,507,78,11,29,Health and beauty,5,66,Male
+3/1/2016,130,507,78,11,29,Sports and travel,5,66,Male
+6/1/2016,63,245.7,37.8,77.81,33,Home and lifestyle,7,78,Male
+7/1/2016,110,429,66,86.67,30,Health and beauty,8,24,Female
+10/1/2019,279,1309,224.52,244.03,27,Sports and travel,7,6,Female
+11/1/2019,171,843,133.84,145.46,31,Electronic accessories,7,21,Male
+2/1/2020,190,1635,210.86,229.18,32,Electronic accessories,6,35,Female
+2/1/2020,190,1635,210.86,229.18,32,Home and lifestyle,4,15,Male
+2/1/2020,190,1635,210.86,229.18,32,Home and lifestyle,9,15,Male

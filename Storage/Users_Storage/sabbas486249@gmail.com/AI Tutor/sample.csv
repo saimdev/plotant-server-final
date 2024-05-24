@@ -1,0 +1,10 @@
+Date,On_peak,Off_peak,Usage_charge,Billed_amount,Billing_days,Product,Quantity
+1/1/2016,365,1423.5,219,247.73,31,Health and beauty,7
+3/1/2016,130,507,78,123.85,29,Electronic accessories,5
+6/1/2016,63,245.7,37.8,77.81,33,Home and lifestyle,7
+7/1/2016,110,429,66,86.67,30,Health and beauty,8
+10/1/2019,279,1309,224.52,244.03,27,Sports and travel,7
+11/1/2019,171,843,133.84,145.46,31,Electronic accessories,7
+2/1/2020,190,1635,210.86,229.18,32,Electronic accessories,6
+2/1/2020,190,1635,210.86,229.18,32,Electronic accessories,6
+2/1/2020,190,1635,210.86,229.18,32,Sports and travel,2
